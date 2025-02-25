@@ -23,7 +23,7 @@ If you seek collaboration for your research, please contact me via [cychen.cs11@
 
 ICEshell is a security startup based in Taipei that aims to provide high-quality software protection solutions for mobile app developers. Our investors include the well-known APP development company Sparkful (formerly Fourdesire) and the world-leading security company DEVCORE.
 
-I have been responsible for the iOS APP protection solution since February 2024. After several months of effort, this compiler-based solution has been delivered to a TPEx-listed (over-the-counter) company for proof of concept. I attended several cybersecurity exhibitions to introduce our solutions, including CYBERSEC 2024 (Taiwan), CyberDSA 2024 (Malaysia), and the Taipei Game Show 2025 (Taiwan). I will give an introductive speech at CYBERSEC 2025 (Taiwan), titled [App Code Security and Protection from a Compiler Perspective](https://cybersec.ithome.com.tw/2025/en/session-page/3495).
+I have been responsible for the iOS APP protection solution since February 2024. After several months of effort, this compiler-based solution has been delivered to a TPEx-listed (over-the-counter) company for proof of concept. I attended several cybersecurity exhibitions to introduce our solutions, including CYBERSEC 2024 (Taiwan), CyberDSA 2024 (Malaysia), and the Taipei Game Show 2025 (Taiwan). I will give a general speech at CYBERSEC 2025 (Taiwan), titled [App Code Security and Protection from a Compiler Perspective](https://cybersec.ithome.com.tw/2025/en/session-page/3495).
 
 ## Fun Facts
 
